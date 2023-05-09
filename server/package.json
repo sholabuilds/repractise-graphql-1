@@ -6,7 +6,6 @@
   "scripts": {
     "start": "nodemon src/index"
   },
-  "dependencies": {},
   "devDependencies": {
     "dotenv": "^8.6.0",
     "nodemon": "^2.0.20"
